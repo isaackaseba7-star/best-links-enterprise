@@ -1,0 +1,6 @@
+{
+  "name": "Best Links Enterprise",
+  "description": "Premium layout for Best Links Enterprise construction & home services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
